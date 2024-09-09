@@ -8,6 +8,4 @@ HuffmanCoding/
 │   ├── HuffmanNode.h         # Header for HuffmanNode structure
 ├── input/                    # Directory for input files
 │   ├── sample.txt            # Example input text file
-├── output/                   # Directory for output files
-│   ├── (compressed/decompressed files will be saved here)
 ├── CMakeLists.txt            # CMake configuration file for building the project
