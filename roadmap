@@ -1,0 +1,13 @@
+HuffmanCoding/
+├── src/
+│   ├── main.cpp              # Entry point of the application
+│   ├── HuffmanCoding.cpp     # Implementation of HuffmanCoding class
+│   ├── HuffmanNode.cpp       # Implementation of HuffmanNode structure
+├── include/
+│   ├── HuffmanCoding.h       # Header for HuffmanCoding class
+│   ├── HuffmanNode.h         # Header for HuffmanNode structure
+├── input/                    # Directory for input files
+│   ├── sample.txt            # Example input text file
+├── output/                   # Directory for output files
+│   ├── (compressed/decompressed files will be saved here)
+├── CMakeLists.txt            # CMake configuration file for building the project
