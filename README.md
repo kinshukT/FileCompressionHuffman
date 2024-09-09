@@ -15,8 +15,6 @@ HuffmanCoding/
 │   ├── HuffmanNode.h
 ├── input/
 │   ├── sample.txt
-├── output/
-│   ├── (compressed and decompressed files will be saved here)
 ├── CMakeLists.txt
 ├── README.md
 ```
